@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextMod/static/css/main.cb878bef.css",
+    "main.js": "/TextMod/static/js/main.08102098.js",
+    "static/js/787.b22c089f.chunk.js": "/TextMod/static/js/787.b22c089f.chunk.js",
+    "index.html": "/TextMod/index.html",
+    "main.cb878bef.css.map": "/TextMod/static/css/main.cb878bef.css.map",
+    "main.08102098.js.map": "/TextMod/static/js/main.08102098.js.map",
+    "787.b22c089f.chunk.js.map": "/TextMod/static/js/787.b22c089f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb878bef.css",
+    "static/js/main.08102098.js"
+  ]
+}
